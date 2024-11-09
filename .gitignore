@@ -1,0 +1,9 @@
+# IDE folders and files
+.cache/
+.idea/
+.theia/
+.vscode/
+
+# Catalog to be obtained elsewhere
+cosmos_acs_iphot_200709.parq
+cosmos_hst_tiles
